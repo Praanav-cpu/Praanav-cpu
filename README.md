@@ -64,8 +64,6 @@ Here are some ideas to get you started:
 
 ###
 
-aaditya
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Praanav-cpu/count.svg?"  />
 </div>
